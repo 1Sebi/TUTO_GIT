@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 * {
-	font-family: 'Libre Barcode 39';
+	font-family: 'Roboto', sans-serif;
 }
 main {
 	width: 50%;
